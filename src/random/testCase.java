@@ -11,5 +11,9 @@ public class testCase {
 		randomKlasa k = new  randomKlasa("string12");
 		assertEquals("string12", k.nekaMetodaIspisa());
 	}
-
+	@Test
+	public void Ispisa() {
+		randomKlasa k = new  randomKlasa("string12");
+		assertEquals("string12", k.nekaMetodaIspisa());
+	}
 }
