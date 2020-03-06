@@ -1,0 +1,3 @@
+module random {
+	requires junit;
+}
